@@ -46,3 +46,12 @@ npm run preview
 ```
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
+
+Steps to install and run:
+
+- npm install
+- npm run dev
+
+Git:
+
+- git add . && git commit -m "C" && git push origin main
